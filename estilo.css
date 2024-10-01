@@ -1,0 +1,40 @@
+body {
+	background-image: url(imagens/fundo.png);
+}
+
+div {
+	width: 50%;
+	margin: 0 auto;
+}	
+
+h2 {
+	color: #b5af9c;
+}
+.menu {
+	text-decoration: none;
+	color: black;
+	align-content: center;
+}
+
+.menu: hover {
+	color: black;
+}
+
+.menu2 {
+	background-color: #d2d2c0;
+	border: 10px ;
+	padding: 20px;
+}
+
+.fundo {
+	background-color: white;
+	width: 70 porcento;
+	margin: 0 auto;
+	padding-left: 12px;
+
+}
+
+.foto_borda {
+	border: 12px solid;
+	color: #d2d2c0;
+}
